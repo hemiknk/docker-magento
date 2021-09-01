@@ -28,45 +28,45 @@ View Dockerfiles:
 
 - [markoshust/magento-nginx (Docker Hub)](https://hub.docker.com/r/markoshust/magento-nginx/)
   - 1.18
-      - [`1.18`, `1.18-4`](https://github.com/markshust/docker-magento/tree/master/images/nginx/1.18)
-      - [`1.18-3`](https://github.com/markshust/docker-magento/tree/34.0.0/images/nginx/1.18)
-      - [`1.18-2`](https://github.com/markshust/docker-magento/tree/33.0.0/images/nginx/1.18)
-      - [`1.18-1`](https://github.com/markshust/docker-magento/tree/31.0.1/images/nginx/1.18)
-      - [`1.18-0`](https://github.com/markshust/docker-magento/tree/31.0.0/images/nginx/1.18)
+      - [`1.18`, `1.18-4`](https://github.com/hemiknk/docker-magento/tree/master/images/nginx/1.18)
+      - [`1.18-3`](https://github.com/hemiknk/docker-magento/tree/34.0.0/images/nginx/1.18)
+      - [`1.18-2`](https://github.com/hemiknk/docker-magento/tree/33.0.0/images/nginx/1.18)
+      - [`1.18-1`](https://github.com/hemiknk/docker-magento/tree/31.0.1/images/nginx/1.18)
+      - [`1.18-0`](https://github.com/hemiknk/docker-magento/tree/31.0.0/images/nginx/1.18)
 - [markoshust/magento-php (Docker Hub)](https://hub.docker.com/r/markoshust/magento-php/)
   - 8.0 (available for alpha testing)
-      - [`8.0-fpm-develop`](https://github.com/markshust/docker-magento/tree/master/images/php/8.0)
+      - [`8.0-fpm-develop`](https://github.com/hemiknk/docker-magento/tree/master/images/php/8.0)
   - 7.4
-      - [`7.4-fpm`, `7.4-fpm-7`](https://github.com/markshust/docker-magento/tree/master/images/php/7.4)
-      - [`7.4-fpm-6`](https://github.com/markshust/docker-magento/tree/38.0.0/images/php/7.4)
-      - [`7.4-fpm-5`](https://github.com/markshust/docker-magento/tree/37.0.2/images/php/7.4)
-      - [`7.4-fpm-4`](https://github.com/markshust/docker-magento/tree/36.0.2/images/php/7.4)
-      - [`7.4-fpm-3`](https://github.com/markshust/docker-magento/tree/36.0.1/images/php/7.4)
-      - [`7.4-fpm-2`](https://github.com/markshust/docker-magento/tree/34.2.0/images/php/7.4)
-      - [`7.4-fpm-1`](https://github.com/markshust/docker-magento/tree/34.1.0/images/php/7.4)
-      - [`7.4-fpm-0`](https://github.com/markshust/docker-magento/tree/33.0.0/images/php/7.4)
+      - [`7.4-fpm`, `7.4-fpm-7`](https://github.com/hemiknk/docker-magento/tree/master/images/php/7.4)
+      - [`7.4-fpm-6`](https://github.com/hemiknk/docker-magento/tree/38.0.0/images/php/7.4)
+      - [`7.4-fpm-5`](https://github.com/hemiknk/docker-magento/tree/37.0.2/images/php/7.4)
+      - [`7.4-fpm-4`](https://github.com/hemiknk/docker-magento/tree/36.0.2/images/php/7.4)
+      - [`7.4-fpm-3`](https://github.com/hemiknk/docker-magento/tree/36.0.1/images/php/7.4)
+      - [`7.4-fpm-2`](https://github.com/hemiknk/docker-magento/tree/34.2.0/images/php/7.4)
+      - [`7.4-fpm-1`](https://github.com/hemiknk/docker-magento/tree/34.1.0/images/php/7.4)
+      - [`7.4-fpm-0`](https://github.com/hemiknk/docker-magento/tree/33.0.0/images/php/7.4)
   - 7.3
-      - [`7.3-fpm`, `7.3-fpm-14`](https://github.com/markshust/docker-magento/tree/master/images/php/7.3)
-      - [`7.3-fpm-13`](https://github.com/markshust/docker-magento/tree/38.0.0/images/php/7.3)
-      - [`7.3-fpm-12`](https://github.com/markshust/docker-magento/tree/37.0.2/images/php/7.3)
-      - [`7.3-fpm-11`](https://github.com/markshust/docker-magento/tree/36.0.2/images/php/7.3)
-      - [`7.3-fpm-10`](https://github.com/markshust/docker-magento/tree/36.0.1/images/php/7.3)
-      - [`7.3-fpm-9`](https://github.com/markshust/docker-magento/tree/34.2.0/images/php/7.3)
-      - [`7.3-fpm-8`](https://github.com/markshust/docker-magento/tree/34.1.0/images/php/7.3)
-      - [`7.3-fpm-7`](https://github.com/markshust/docker-magento/tree/33.0.0/images/php/7.3)
-      - [`7.3-fpm-6`](https://github.com/markshust/docker-magento/tree/32.0.1/images/php/7.3)
-      - [`7.3-fpm-5`](https://github.com/markshust/docker-magento/tree/30.0.0/images/php/7.3)
-      - [`7.3-fpm-4`](https://github.com/markshust/docker-magento/tree/29.0.0/images/php/7.3)
-      - [`7.3-fpm-3`](https://github.com/markshust/docker-magento/tree/28.0.0/images/php/7.3)
-      - [`7.3-fpm-2`](https://github.com/markshust/docker-magento/tree/27.2.0/images/php/7.3)
-      - [`7.3-fpm-1`](https://github.com/markshust/docker-magento/tree/26.0.0/images/php/7.3)
-      - [`7.3-fpm-0`](https://github.com/markshust/docker-magento/tree/24.2.0/images/php/7.3)
+      - [`7.3-fpm`, `7.3-fpm-14`](https://github.com/hemiknk/docker-magento/tree/master/images/php/7.3)
+      - [`7.3-fpm-13`](https://github.com/hemiknk/docker-magento/tree/38.0.0/images/php/7.3)
+      - [`7.3-fpm-12`](https://github.com/hemiknk/docker-magento/tree/37.0.2/images/php/7.3)
+      - [`7.3-fpm-11`](https://github.com/hemiknk/docker-magento/tree/36.0.2/images/php/7.3)
+      - [`7.3-fpm-10`](https://github.com/hemiknk/docker-magento/tree/36.0.1/images/php/7.3)
+      - [`7.3-fpm-9`](https://github.com/hemiknk/docker-magento/tree/34.2.0/images/php/7.3)
+      - [`7.3-fpm-8`](https://github.com/hemiknk/docker-magento/tree/34.1.0/images/php/7.3)
+      - [`7.3-fpm-7`](https://github.com/hemiknk/docker-magento/tree/33.0.0/images/php/7.3)
+      - [`7.3-fpm-6`](https://github.com/hemiknk/docker-magento/tree/32.0.1/images/php/7.3)
+      - [`7.3-fpm-5`](https://github.com/hemiknk/docker-magento/tree/30.0.0/images/php/7.3)
+      - [`7.3-fpm-4`](https://github.com/hemiknk/docker-magento/tree/29.0.0/images/php/7.3)
+      - [`7.3-fpm-3`](https://github.com/hemiknk/docker-magento/tree/28.0.0/images/php/7.3)
+      - [`7.3-fpm-2`](https://github.com/hemiknk/docker-magento/tree/27.2.0/images/php/7.3)
+      - [`7.3-fpm-1`](https://github.com/hemiknk/docker-magento/tree/26.0.0/images/php/7.3)
+      - [`7.3-fpm-0`](https://github.com/hemiknk/docker-magento/tree/24.2.0/images/php/7.3)
 - [markoshust/magento-elasticsearch (Docker Hub)](https://hub.docker.com/r/markoshust/magento-elasticsearch/)
   - 7
-      - [`7.7`, `7.7.1-0`](https://github.com/markshust/docker-magento/tree/master/images/elasticsearch/7.7)
-      - [`7.6`, `7.6.2-2`](https://github.com/markshust/docker-magento/tree/35.0.0/images/elasticsearch/7.6)
-      - [`7.6.2-1`](https://github.com/markshust/docker-magento/tree/32.0.0/images/elasticsearch/7.6)
-      - [`7.6.2-0`](https://github.com/markshust/docker-magento/tree/31.0.2/images/elasticsearch/7.6)
+      - [`7.7`, `7.7.1-0`](https://github.com/hemiknk/docker-magento/tree/master/images/elasticsearch/7.7)
+      - [`7.6`, `7.6.2-2`](https://github.com/hemiknk/docker-magento/tree/35.0.0/images/elasticsearch/7.6)
+      - [`7.6.2-1`](https://github.com/hemiknk/docker-magento/tree/32.0.0/images/elasticsearch/7.6)
+      - [`7.6.2-0`](https://github.com/hemiknk/docker-magento/tree/31.0.2/images/elasticsearch/7.6)
 
 ## Free Course
 
@@ -124,7 +124,7 @@ Folders:
 - `images`: Docker images for nginx and php
 - `compose`: sample setups with Docker Compose
 
-> The Magento 1 version of this development environment has been deprecated and is no longer supported. PHP 5 was used as it's base, and that version has reached end-of-life. If you still wish to use this setup, please reference [compose/magento-1 on tag 20.1.1](https://github.com/markshust/docker-magento/tree/20.1.1/compose/magento-1), but please be aware these images are no longer maintained.
+> The Magento 1 version of this development environment has been deprecated and is no longer supported. PHP 5 was used as it's base, and that version has reached end-of-life. If you still wish to use this setup, please reference [compose/magento-1 on tag 20.1.1](https://github.com/hemiknk/docker-magento/tree/20.1.1/compose/magento-1), but please be aware these images are no longer maintained.
 
 ## Prerequisites
 
@@ -139,7 +139,7 @@ This configuration has been tested on Mac & Linux. Windows is supported through 
 Run this automated one-liner from the directory you want to install your project.
 
 ```bash
-curl -s https://raw.githubusercontent.com/markshust/docker-magento/master/lib/onelinesetup | bash -s -- magento.test 2.4.2
+curl -s https://raw.githubusercontent.com/hemiknk/docker-magento/master/lib/onelinesetup | bash -s -- magento.test 2.4.2
 ```
 
 The `magento.test` above defines the hostname to use, and the `2.4.2` defines the Magento version to install. Note that since we need a write to `/etc/hosts` for DNS resolution, you will be prompted for your system password during setup.
@@ -163,7 +163,7 @@ Same result as the one-liner above. Just replace `magento.test` references with 
 
 ```bash
 # Download the Docker Compose template:
-curl -s https://raw.githubusercontent.com/markshust/docker-magento/master/lib/template | bash
+curl -s https://raw.githubusercontent.com/hemiknk/docker-magento/master/lib/template | bash
 
 # Download the version of Magento you want to use with:
 bin/download 2.4.2
@@ -187,7 +187,7 @@ open https://magento.test
 
 ```bash
 # Download the Docker Compose template:
-curl -s https://raw.githubusercontent.com/markshust/docker-magento/master/lib/template | bash
+curl -s https://raw.githubusercontent.com/hemiknk/docker-magento/master/lib/template | bash
 
 # Replace with existing source code of your existing Magento instance:
 cp -R ~/Sites/existing src
@@ -219,7 +219,7 @@ bin/restart
 open https://magento.test
 ```
 
-> For more details on how everything works, see the extended [setup readme](https://github.com/markshust/docker-magento/blob/master/SETUP.md).
+> For more details on how everything works, see the extended [setup readme](https://github.com/hemiknk/docker-magento/blob/master/SETUP.md).
 
 ## Updates
 
@@ -351,7 +351,7 @@ For more information about Redis usage with Magento, <a href="https://devdocs.ma
 
 Install and enable the PHP Debug extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug).
 
-Otherwise, this project now automatically sets up Xdebug support with VS Code. If you wish to set this up manually, please see the [`.vscode/launch.json`](https://github.com/markshust/docker-magento/blame/master/compose/.vscode/launch.json) file.
+Otherwise, this project now automatically sets up Xdebug support with VS Code. If you wish to set this up manually, please see the [`.vscode/launch.json`](https://github.com/hemiknk/docker-magento/blame/master/compose/.vscode/launch.json) file.
 
 ### Xdebug & PHPStorm
 
@@ -390,7 +390,7 @@ Otherwise, this project now automatically sets up Xdebug support with VS Code. I
 
 Running Docker on Linux should be pretty straight-forward. Note that you need to run some [post install commands](https://docs.docker.com/install/linux/linux-postinstall/) as well as [installing Docker Compose](https://docs.docker.com/compose/install/). These steps are taken care of automatically with Docker Desktop, but not on Linux.
 
-The `host.docker.internal` hostname is [hard-coded in the php.ini file](https://github.com/markshust/docker-magento/blob/master/images/php/7.4/conf/php.ini#L8), but this hostname does not exist on Linux. To make this hostname resolve, uncomment the `extra_hosts` param in the `docker-compose.dev.yml` file, and replace `IP` with result of:
+The `host.docker.internal` hostname is [hard-coded in the php.ini file](https://github.com/hemiknk/docker-magento/blob/master/images/php/7.4/conf/php.ini#L8), but this hostname does not exist on Linux. To make this hostname resolve, uncomment the `extra_hosts` param in the `docker-compose.dev.yml` file, and replace `IP` with result of:
 
 ```
 docker run --rm alpine ip route | awk 'NR==1 {print $3}'

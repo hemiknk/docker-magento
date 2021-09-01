@@ -1,5 +1,5 @@
 # Mark Shust's Docker Configuration for Magento
-# (https://github.com/markshust/docker-magento)
+# (https://github.com/hemiknk/docker-magento)
 #
 # Version 38.0.0
 
@@ -27,7 +27,7 @@ services:
 
   phpfpm:
     volumes: *appvolumes
-    ## Linux users, see https://github.com/markshust/docker-magento#linux for updates needed below
+    ## Linux users, see https://github.com/hemiknk/docker-magento#linux for updates needed below
     #extra_hosts:
     #  - "host.docker.internal:IP"
 
