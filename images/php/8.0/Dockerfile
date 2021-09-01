@@ -51,8 +51,8 @@ RUN pecl channel-update pecl.php.net \
 RUN docker-php-ext-enable xdebug \
   && sed -i -e 's/^zend_extension/\;zend_extension/g' /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
 
-RUN groupadd -g 1000 app \
- && useradd -g 1000 -u 1000 -d /var/www -s /bin/bash app
+RUN groupadd -g 1001 app \
+ && useradd -g 1001 -u 1001 -d /var/www -s /bin/bash app
 
 RUN apt-get install -y gnupg \
   && curl -sL https://deb.nodesource.com/setup_14.x | bash - \
